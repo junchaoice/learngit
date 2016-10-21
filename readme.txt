@@ -6,4 +6,4 @@ GPL
 GPL
 aaaGPL
 GaPhL
-dAv teSt  Branch append string
+dav test  branch append string
